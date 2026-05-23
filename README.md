@@ -3,12 +3,25 @@
   <p><strong>An End-to-End Power BI Portfolio Project isolating workforce turnover mechanics and operational burnout drivers.</strong></p>
   
   <p>
-    <a href="#1-the-strategic-business-problem">Business Problem</a> •
-    <a href="#2-data-engineering--etl-transformations">Data Engineering</a> •
-    <a href="#3-analytical-modeling-architecture">Data Model</a> •
-    <a href="#4-custom-analytical-logic-dax">DAX Formulas</a> •
-    <a href="#5-key-business-insights">Insights & Impact</a>
+    <a href="#📋-executive-summary-brief">Executive Summary</a> •
+    <a href="#📌-1-the-strategic-business-problem">Business Problem</a> •
+    <a href="#⚙️-2-data-engineering--etl-transformations">Data Engineering</a> •
+    <a href="#🏗️-3-analytical-modeling-architecture">Data Model</a> •
+    <a href="#🧮-4-custom-analytical-logic-dax">DAX Formulas</a> •
+    <a href="#💡-5-key-business-insights">Insights & Impact</a>
   </p>
+</div>
+
+<hr />
+
+<h2>📋 Executive Summary Brief</h2>
+<p>
+  This project transforms a raw, unstructured workforce dataset of 1,470 records into an interactive executive decision tool. By implementing an optimized Star Schema and writing custom diagnostic DAX logic, the dashboard isolates critical operational risks: identifying a severe attrition rate spike (over 30%) linked directly to overtime burnout, pinpointing high-turnover roles like Laboratory Technicians, and exposing retention friction in early-tenure employee cohorts (0–2 years). The resulting interface empowers HR leadership to shift from reactive tracking to data-backed, preventative talent management.
+</p>
+
+<div align="center">
+  <img src="assets/dashboard_screenshot.png" alt="Power BI HR Attrition Dashboard Screenshot" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p><em>Figure 1: Final Power BI Executive Canvas UI/UX Layout.</em></p>
 </div>
 
 <hr />
