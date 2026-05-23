@@ -20,6 +20,7 @@
 </p>
 
 <div align="center">
+  https://app.powerbi.com/groups/me/reports/b02f4ca6-1107-4b94-a923-3c1c696ce71e?ctid=51998145-5b74-4c67-a4bc-653fc4af7795&pbi_source=linkShare
   <img src="assets/dashboard_screenshot.png" alt="Power BI HR Attrition Dashboard Screenshot" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p><em>Figure 1: Final Power BI Executive Canvas UI/UX Layout.</em></p>
 </div>
